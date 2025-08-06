@@ -1,5 +1,5 @@
 local games = {
-    [4777817887] = "https://nexveil.vercel.app/files/v1/loaders/073bb8f1735ad4fc3bb0d592f933db54", --//blade ball
+    [4777817887] = "https://raw.githubusercontent.com/public-account-7/skidhub/refs/heads/main/bladeball.lua", --//blade ball
     [4914269443] = "https://nexveil.vercel.app/files/v1/loaders/574712d228248ed480b407eebc7eeee5", --//unamed shooter
     [6035872082] = "https://nexveil.vercel.app/files/v1/loaders/63ef38ad0542323e270e3eb2c5cbe1a3", --//rivals
     universal = "https://raw.githubusercontent.com/public-account-7/skidhub/refs/heads/main/universal" --//universal
